@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151122767245",
+    "project_id": "hango-7b515",
+    "storage_bucket": "hango-7b515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151122767245:android:78b6642a55ad4e24fbe1c4",
+        "android_client_info": {
+          "package_name": "com.example.hangout_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151122767245-voq7ka7qlu1nu06mba58pgmt81inaoll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hangout_v3",
+            "certificate_hash": "40fa33505fb6f7c147f712705e20619e580795c8"
+          }
+        },
+        {
+          "client_id": "151122767245-efilntsc57bosur6r78um4d4uaaqhj71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUHDGZqRnjxA11UOXZa9EECGS5jqFrEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151122767245-efilntsc57bosur6r78um4d4uaaqhj71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
